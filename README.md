@@ -2,7 +2,7 @@
 
 Welcome to the Champion Responsive Website project! This repository contains the design and development of a landing page website that is fully responsive for desktop, tablet, and mobile devices.
 
-![Champion Responsive Website Design](Champion_Responsive_Website_Design.png)
+![Champion Responsive Website Design](/figma_design/Champion_Responsive_Website_Design.png)
 
 ## Table of Contents
 
@@ -69,4 +69,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Promise Champion - [promiseduke@gmail.com](mailto:promiseduke@gmail.com)
 
 Project Link: [https://github.com/Promisead/figma2code_landingPage](https://github.com/Promisead/figma2code_landingPage)
+
 # figma2code_landingPage
